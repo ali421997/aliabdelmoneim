@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali421997
 - 👀 I’m interested in robotics and mechatronics
 - 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate on development projecgts
+- 💞️ I’m looking to collaborate on development projects
 - 📫 How to reach me aliabdelmoneim@icloud.com
 
 <!---
